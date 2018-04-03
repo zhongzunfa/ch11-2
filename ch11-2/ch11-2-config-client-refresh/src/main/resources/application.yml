@@ -1,6 +1,0 @@
-server:
-  port: 9093
-
-spring:
-  application:
-    name: sc-eureka-client-config-git
